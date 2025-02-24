@@ -45,27 +45,16 @@ The **IPL Auction 2025** project extracts, analyzes, and visualizes IPL player a
 - **Dashboard Development**: Creating interactive visual representations with user engagement.
 
 ## How to Run the Project
-1. Clone the repository:
+Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/ipl-auction-2025.git
+   git clone https://github.com/Amansingh077/ipl-auction-2025.git
    cd ipl-auction-2025
    ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run the data extraction script:
-   ```sh
-   python scrape_ipl_data.py
-   ```
-4. Perform analysis:
-   ```sh
-   python analyze_data.py
-   ```
+
 5. Visualize data in Google Looker Studio by connecting to the generated CSV file and interacting with dynamic filters.
 
 ## Contributors
-- **Your Name** – [GitHub Profile](https://github.com/your-profile)
+- **Your Name** – [GitHub Profile](https://github.com/Amansingh077)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
