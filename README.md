@@ -50,8 +50,7 @@ Clone the repository:
    git clone https://github.com/Amansingh077/ipl-auction-2025.git
    cd ipl-auction-2025
    ```
-
-5. Visualize data in Google Looker Studio by connecting to the generated CSV file and interacting with dynamic filters.
+Visualize data in Google Looker Studio by connecting to the generated CSV file and interacting with dynamic filters.
 
 ## Contributors
 - **Your Name** – [GitHub Profile](https://github.com/Amansingh077)
